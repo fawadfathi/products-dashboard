@@ -44,17 +44,17 @@ const Sidebar = () => {
           <CommandItem>
             <User className="w-4 h-4 mr-2" />
             <span>Profile</span>
-            <CommandShortcut>*p</CommandShortcut>
+            <CommandShortcut>⌘</CommandShortcut>
           </CommandItem>
           <CommandItem>
             <CreditCard className="w-4 h-4 mr-2" />
             <span>Billing</span>
-            <CommandShortcut>*B</CommandShortcut>
+            <CommandShortcut>⌘</CommandShortcut>
           </CommandItem>
           <CommandItem>
             <Settings className="w-4 h-4 mr-2" />
             <span>Setting</span>
-            <CommandShortcut>*s</CommandShortcut>
+            <CommandShortcut>⌘</CommandShortcut>
           </CommandItem>
         </CommandGroup>
       </CommandList>

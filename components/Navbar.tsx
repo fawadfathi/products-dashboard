@@ -15,7 +15,7 @@ import {
 const Navbar = () => {
   return (
     <div className="flex items-center justify-between p-2 bg-slate-800">
-      <Link href="https://github.com/fawadfathi?tab=overview&from=2024-08-01&to=2024-08-06">
+      <Link href="https://github.com/fawadfathi/products-dashboard">
         <RxGithubLogo style={{ color: "white" }} size="30" />
       </Link>
 
